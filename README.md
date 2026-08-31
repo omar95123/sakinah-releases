@@ -70,7 +70,7 @@
 
 <div align="center">
 
-تطوير **[عمر طاهر](https://eg.linkedin.com/in/omar-taher-80a94421b)**
+تطوير **[Omar Taher](https://eg.linkedin.com/in/omar-taher-80a94421b)**
 
 لأي مشكلة أو اقتراح، افتح [Issue](https://github.com/omar95123/sakinah-releases/issues)
 
