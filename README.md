@@ -27,8 +27,19 @@
 2. تحت عنوان **Assets** نزّل الملف الذي يبدأ بـ **`sakinah-`** وينتهي بـ **`.apk`** — وهو ملف واحد يعمل على كل هواتف أندرويد.
    (أما `Source code (zip)` و`(tar.gz)` فيضيفهما GitHub تلقائيًا ولا يحتويان على التطبيق — تجاهلهما.)
 3. افتح الملف بعد التنزيل. سيسألك أندرويد عن السماح بالتثبيت من هذا المصدر — اضغط **الإعدادات** ثم فعّل **السماح من هذا المصدر**، وارجع.
-4. اضغط **تثبيت**. قد تظهر رسالة من Play Protect تقول إن المطوّر غير معروف — اختر **التثبيت على أي حال**؛ هذه رسالة تظهر لأي تطبيق خارج المتجر.
-5. عند أول فتح سيطلب التطبيق أذونات الإشعارات والموقع — وكلها لازمة لعمل الأذان والقبلة كما هو موضّح أدناه.
+4. اضغط **تثبيت**. قد تظهر رسالة من **Google Play للحماية (Play Protect)** تقول إن التطبيق غير معروف. اضغط **مزيد من التفاصيل** أولًا:
+
+<div align="center">
+  <img src="docs/install/01-play-protect-more-details.jpeg" width="300" alt="اضغط مزيد من التفاصيل في رسالة Play Protect">
+</div>
+
+5. بعد ظهور الخيارات الإضافية اضغط **التثبيت على أي حال**:
+
+<div align="center">
+  <img src="docs/install/02-play-protect-install-anyway.jpeg" width="300" alt="اضغط التثبيت على أي حال في Play Protect">
+</div>
+
+6. عند أول فتح سيطلب التطبيق أذونات الإشعارات والموقع — وكلها لازمة لعمل الأذان والقبلة كما هو موضّح أدناه.
 
 > **ملاحظة عن التحديثات:** لتحديث التطبيق لاحقًا، نزّل الإصدار الأحدث من الصفحة نفسها وثبّته فوق القديم مباشرة — بياناتك وإعداداتك وتحميلاتك تبقى كما هي.
 
@@ -38,7 +49,7 @@
 
 | الرئيسية | مواقيت الصلاة | اتجاه القبلة |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/01-home.jpg" width="240"> | <img src="docs/screenshots/02-prayer-times.jpg" width="240"> | <img src="docs/screenshots/05-qibla.jpg" width="240"> |
+| <img src="docs/screenshots/08-tasbih.jpg" width="240"> | <img src="docs/screenshots/01-home.jpg" width="240"> | <img src="docs/screenshots/05-qibla.jpg" width="240"> |
 
 | المصحف | فهرس السور | التفسير |
 |:---:|:---:|:---:|
@@ -46,7 +57,7 @@
 
 | الأذكار | أذكار الصباح | السبحة | الأحاديث |
 |:---:|:---:|:---:|:---:|
-| <img src="docs/screenshots/06-adhkar.jpg" width="200"> | <img src="docs/screenshots/07-adhkar-morning.jpg" width="200"> | <img src="docs/screenshots/08-tasbih.jpg" width="200"> | <img src="docs/screenshots/10-hadith.jpg" width="200"> |
+| <img src="docs/screenshots/06-adhkar.jpg" width="200"> | <img src="docs/screenshots/07-adhkar-morning.jpg" width="200"> | <img src="docs/screenshots/02-prayer-times.jpg" width="200"> | <img src="docs/screenshots/10-hadith.jpg" width="200"> |
 
 ---
 
