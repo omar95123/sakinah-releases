@@ -27,19 +27,17 @@
 2. تحت عنوان **Assets** نزّل الملف الذي يبدأ بـ **`sakinah-`** وينتهي بـ **`.apk`** — وهو ملف واحد يعمل على كل هواتف أندرويد.
    (أما `Source code (zip)` و`(tar.gz)` فيضيفهما GitHub تلقائيًا ولا يحتويان على التطبيق — تجاهلهما.)
 3. افتح الملف بعد التنزيل. سيسألك أندرويد عن السماح بالتثبيت من هذا المصدر — اضغط **الإعدادات** ثم فعّل **السماح من هذا المصدر**، وارجع.
-4. اضغط **تثبيت**. قد تظهر رسالة من **Google Play للحماية (Play Protect)** تقول إن التطبيق غير معروف. اضغط **مزيد من التفاصيل** أولًا:
+4. اضغط **تثبيت**. قد تظهر شاشة زرقاء من Play Protect تقول **«تم حظر التطبيق لحماية جهازك»** — لا تضغط «حسنًا»، بل اضغط **مزيد من التفاصيل** ثم **التثبيت على أي حال** كما في الصورتين:
 
-<div align="center">
-  <img src="docs/install/01-play-protect-more-details.jpeg" width="300" alt="اضغط مزيد من التفاصيل في رسالة Play Protect">
-</div>
+<p align="center">
+  <img src="docs/screenshots/install-1.jpg" width="230">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/install-2.jpg" width="230">
+</p>
 
-5. بعد ظهور الخيارات الإضافية اضغط **التثبيت على أي حال**:
+> هذه الرسالة تظهر لأي تطبيق يُثبَّت من خارج متجر Play، ومعناها أن جوجل لم تفحص التطبيق — لا أن فيه ضررًا. ومن أراد التحقق بنفسه فبصمة توقيع الإصدار منشورة في مستودع المشروع.
 
-<div align="center">
-  <img src="docs/install/02-play-protect-install-anyway.jpeg" width="300" alt="اضغط التثبيت على أي حال في Play Protect">
-</div>
-
-6. عند أول فتح سيطلب التطبيق أذونات الإشعارات والموقع — وكلها لازمة لعمل الأذان والقبلة كما هو موضّح أدناه.
+5. عند أول فتح سيطلب التطبيق أذونات الإشعارات والموقع — وكلها لازمة لعمل الأذان والقبلة كما هو موضّح أدناه.
 
 > **ملاحظة عن التحديثات:** لتحديث التطبيق لاحقًا، نزّل الإصدار الأحدث من الصفحة نفسها وثبّته فوق القديم مباشرة — بياناتك وإعداداتك وتحميلاتك تبقى كما هي.
 
@@ -49,7 +47,7 @@
 
 | الرئيسية | مواقيت الصلاة | اتجاه القبلة |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/08-tasbih.jpg" width="240"> | <img src="docs/screenshots/01-home.jpg" width="240"> | <img src="docs/screenshots/05-qibla.jpg" width="240"> |
+| <img src="docs/screenshots/01-home.jpg" width="240"> | <img src="docs/screenshots/02-prayer-times.jpg" width="240"> | <img src="docs/screenshots/05-qibla.jpg" width="240"> |
 
 | المصحف | فهرس السور | التفسير |
 |:---:|:---:|:---:|
@@ -57,7 +55,7 @@
 
 | الأذكار | أذكار الصباح | السبحة | الأحاديث |
 |:---:|:---:|:---:|:---:|
-| <img src="docs/screenshots/06-adhkar.jpg" width="200"> | <img src="docs/screenshots/07-adhkar-morning.jpg" width="200"> | <img src="docs/screenshots/02-prayer-times.jpg" width="200"> | <img src="docs/screenshots/10-hadith.jpg" width="200"> |
+| <img src="docs/screenshots/06-adhkar.jpg" width="200"> | <img src="docs/screenshots/07-adhkar-morning.jpg" width="200"> | <img src="docs/screenshots/08-tasbih.jpg" width="200"> | <img src="docs/screenshots/10-hadith.jpg" width="200"> |
 
 ---
 
