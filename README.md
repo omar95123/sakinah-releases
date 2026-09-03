@@ -9,9 +9,6 @@
 ### [⬇️ حمّل آخر إصدار](https://github.com/omar95123/sakinah-releases/releases/latest)
 
 <a href="https://github.com/omar95123/sakinah-releases/releases/latest">
-  <img src="https://img.shields.io/github/downloads/omar95123/sakinah-releases/total?style=for-the-badge&label=%D8%B9%D8%AF%D8%AF%20%D8%A7%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84%D8%A7%D8%AA&labelColor=123B2C&color=1F7A5A" alt="عدد التحميلات">
-</a>
-<a href="https://github.com/omar95123/sakinah-releases/releases/latest">
   <img src="https://img.shields.io/github/v/release/omar95123/sakinah-releases?style=for-the-badge&label=%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1&labelColor=123B2C&color=1F7A5A" alt="أحدث إصدار">
 </a>
 
